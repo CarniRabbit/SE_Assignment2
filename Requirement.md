@@ -1,3 +1,6 @@
+Code: 74147
+Github: https://github.com/CarniRabbit/SE_Assignment2
+
 ### Use case Description
 
 **Use Case: 1. 회원가입**
